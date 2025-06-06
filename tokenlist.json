@@ -1,0 +1,15 @@
+{
+  "name": "LVN Token List",
+  "logoURI": "https://raw.githubusercontent.com/LvNThL/LVN-Token/327fd6771ad482c0de2c07d8362c91a5c8c922af/assets/polygon/0x48911Dd6FA7D7E26d0aD3aC8965F3407626265B4/logo.png",
+  "timestamp": "2025-06-06T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x48911Dd6FA7D7E26d0aD3aC8965F3407626265B4",
+      "name": "LVN Token",
+      "symbol": "LVN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/LvNThL/LVN-Token/327fd6771ad482c0de2c07d8362c91a5c8c922af/assets/polygon/0x48911Dd6FA7D7E26d0aD3aC8965F3407626265B4/logo.png"
+    }
+  ]
+}
